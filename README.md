@@ -1,5 +1,5 @@
-###### Hello Word! 
+###### Hello World! 
 
-This is a simple "Hello Word" project repo. These are some super advanced changes!
+This is a simple "Hello World" project repo. These are some super advanced changes!
 
 ##WOW!!
